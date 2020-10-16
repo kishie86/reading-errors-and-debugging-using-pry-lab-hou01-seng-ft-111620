@@ -15,3 +15,5 @@ def engage(date)
   #binding.pry
   puts state_log
 end
+
+def state_log
